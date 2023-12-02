@@ -11,8 +11,8 @@ TagManager:
   - Interactable
   - Water
   - UI
-  - 
-  - 
+  - Map (Non NavMesh)
+  - Map (Navmesh)
   - 
   - 
   - 
